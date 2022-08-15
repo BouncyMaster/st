@@ -4,8 +4,8 @@ VERSION = 0.8.5
 # Customize below to fit your system
 
 # paths
-PREFIX = /home/nicu/.local
-MANPREFIX = $(PREFIX)/share/man
+PREFIX = /home/common
+MANPREFIX = $(PREFIX)/man
 
 X11INC = /usr/X11R6/include
 X11LIB = /usr/X11R6/lib
